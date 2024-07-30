@@ -1,0 +1,51 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 30px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(20, 20, 20);
+    margin: 10%;
+    font-family: serif;
+}
+
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("baby-stars-681500.jpg");
+    
+
+}
+
+.mintraw {
+
+    background-color: rgb(173, 224, 153);
+}
+
+.mintraw2 {
+
+    width: 400px;
+
+}
+
+
+.mintraw3 {
+
+    width: 400px;
+
+}
+
+.strawberry  table, th, td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 20%;
+}
+
+.atrawberry th, td{
+    padding: 50px;
+
+}
