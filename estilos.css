@@ -75,6 +75,18 @@ body{
 }
 
 
+.imgexcel{
+
+    height: 400px;
+    width: 500px;
+    background-image: url("funcionesexcel.jpg");
+}
+
+.ariana{
+    height: 400px;
+    width: 500px;
+    background-image: url("graficar-funciones-matematicas-en-excel-02.png");
+}
 
 
 
